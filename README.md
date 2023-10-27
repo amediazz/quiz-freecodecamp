@@ -5,4 +5,4 @@
  You'll learn accessibility tools such as keyboard shortcuts,
  ARIA attributes, and design best practices.
 </p>
-<h6><a href="https://quiz-freecodecamp-app.onrender.com/">here</a> you can check the perview of the project</h6>
+<h6><a href="https://quiz-freecodecamp-app.onrender.com/">here</a> you can check the preview of the project</h6>
